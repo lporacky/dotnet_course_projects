@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A3sS6ruA8FQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\plibo\\Desktop\\VS Code Projects\\FirstTry\\FirstTry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\plibo\\.nuget\\packages\\pastel\\7.0.1\\pastel.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

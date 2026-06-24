@@ -1,0 +1,17 @@
+C:\Users\plibo\Desktop\VS Code Projects\FirstTry\bin\Debug\net10.0\FirstTry.exe
+C:\Users\plibo\Desktop\VS Code Projects\FirstTry\bin\Debug\net10.0\FirstTry.deps.json
+C:\Users\plibo\Desktop\VS Code Projects\FirstTry\bin\Debug\net10.0\FirstTry.runtimeconfig.json
+C:\Users\plibo\Desktop\VS Code Projects\FirstTry\bin\Debug\net10.0\FirstTry.dll
+C:\Users\plibo\Desktop\VS Code Projects\FirstTry\bin\Debug\net10.0\FirstTry.pdb
+C:\Users\plibo\Desktop\VS Code Projects\FirstTry\obj\Debug\net10.0\FirstTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plibo\Desktop\VS Code Projects\FirstTry\obj\Debug\net10.0\FirstTry.AssemblyInfoInputs.cache
+C:\Users\plibo\Desktop\VS Code Projects\FirstTry\obj\Debug\net10.0\FirstTry.AssemblyInfo.cs
+C:\Users\plibo\Desktop\VS Code Projects\FirstTry\obj\Debug\net10.0\FirstTry.csproj.CoreCompileInputs.cache
+C:\Users\plibo\Desktop\VS Code Projects\FirstTry\obj\Debug\net10.0\FirstTry.dll
+C:\Users\plibo\Desktop\VS Code Projects\FirstTry\obj\Debug\net10.0\refint\FirstTry.dll
+C:\Users\plibo\Desktop\VS Code Projects\FirstTry\obj\Debug\net10.0\FirstTry.pdb
+C:\Users\plibo\Desktop\VS Code Projects\FirstTry\obj\Debug\net10.0\FirstTry.genruntimeconfig.cache
+C:\Users\plibo\Desktop\VS Code Projects\FirstTry\obj\Debug\net10.0\ref\FirstTry.dll
+C:\Users\plibo\Desktop\VS Code Projects\FirstTry\bin\Debug\net10.0\Pastel.dll
+C:\Users\plibo\Desktop\VS Code Projects\FirstTry\obj\Debug\net10.0\FirstTry.csproj.AssemblyReference.cache
+C:\Users\plibo\Desktop\VS Code Projects\FirstTry\obj\Debug\net10.0\FirstTry.csproj.Up2Date
